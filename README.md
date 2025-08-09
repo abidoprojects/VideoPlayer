@@ -21,7 +21,7 @@ This Java-based video player serves as a solid foundation for anyone interested 
 Please note that the setup process requires a few manual steps. Follow the instructions below carefully:
 
 1. **Prerequisites:**  
-   - Make sure you have [Java JDK 11 or later] I recommend JDK-24 (https://www.oracle.com/java/technologies/javase/jdk24-archive-downloads.html) installed on your system.  
+   - Make sure you have [Java JDK 11 or later]. I recommend JDK-24 (https://www.oracle.com/java/technologies/javase/jdk24-archive-downloads.html) installed on your system.  
    - Set the `JAVA_HOME` environment variable properly.
 
 2. **Download the executable:**  
