@@ -15,3 +15,35 @@ This Java-based video player serves as a solid foundation for anyone interested 
 
 
 <img width="1264" height="890" alt="videoplayer" src="https://github.com/user-attachments/assets/6de31791-c6d4-4196-8f76-18c60525d4a4" />
+
+## Installation
+
+Please note that the setup process requires a few manual steps. Follow the instructions below carefully:
+
+1. **Prerequisites:**  
+   - Make sure you have [Java JDK 11 or later] I recommend JDK-24 (https://www.oracle.com/java/technologies/javase/jdk24-archive-downloads.html) installed on your system.  
+   - Set the `JAVA_HOME` environment variable properly.
+
+2. **Download the executable:**  
+   - You can download the latest executable from the [Releases page](https://github.com/yourusername/java-video-player/releases).  
+   - Alternatively, build the project from source by following the build instructions below.
+
+3. **Building from source (optional):**  
+   - Clone the repository:  
+     ```bash
+     git clone https://github.com/yourusername/java-video-player.git
+     ```  
+   - Navigate to the project folder:  
+     ```bash
+     cd java-video-player
+     ```  
+   - Compile and run using your preferred IDE or command line.
+
+4. **Running the application:**  
+   - If using the executable, simply double-click the `.exe` file or run it from the command line.  
+   - If running from source, make sure dependencies are resolved and run the main class `your.main.Class`.
+
+If you encounter any issues during setup, please check the FAQ section or open an issue in the repository.
+
+---
+
