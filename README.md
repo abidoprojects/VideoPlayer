@@ -25,7 +25,7 @@ Please note that the setup process requires a few manual steps. Follow the instr
    - Set the `JAVA_HOME` environment variable properly.
 
 2. **Download the executable:**  
-   - You can download the latest executable from the [Releases page](https://github.com/yourusername/java-video-player/releases).  
+   - You can download the latest executable from the [Releases page](https://github.com/abidoprojects/VideoPlayer/releases).  
    - Alternatively, build the project from source by following the build instructions below.
 
 3. **Building from source (optional):**  
