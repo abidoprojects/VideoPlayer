@@ -12,3 +12,4 @@ A lightweight and user-friendly video player application developed in Java. Desi
 - **Simple Interface:** Minimalistic and clean UI design aimed at ease of use, suitable for both technical and non-technical users.
 
 This Java-based video player serves as a solid foundation for anyone interested in building multimedia applications or requiring a reliable, no-frills video playback tool.
+<img width="1264" height="890" alt="videoplayer" src="https://github.com/user-attachments/assets/6de31791-c6d4-4196-8f76-18c60525d4a4" />
